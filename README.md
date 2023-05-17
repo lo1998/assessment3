@@ -1,3 +1,4 @@
-# assessment3
-My image classification web app for assessment 3 in deep learning.
-To access just the web app you can go to the following link: https://fhux8d8zn8a-496ff2e9c6d22116-7863-colab.googleusercontent.com/
+# Assessment3 Deep Learning
+Welcome to my GitHub repository:
+Here you can find my multi class image classification model including the web app for assessment 3 in deep learning.
+
